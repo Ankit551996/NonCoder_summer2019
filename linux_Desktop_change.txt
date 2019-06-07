@@ -1,0 +1,8 @@
+    
+#Change Default Desktop(Moniter) Item to Downloads folder items in Linux..
+
+1) vim /home/harsh/.config
+
+2) Select => user-dirs.dirs
+
+3) change => XDG_DESKTOP_DIR="$HOME/Desktop"
