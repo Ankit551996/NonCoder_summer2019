@@ -1,0 +1,10 @@
+
+1)  open           ==>vim /home/.bashrc
+      
+2)  Save this line =>HISTTIMEFORMAT='%F %T'
+
+3)  excute this command => source /home/.bashrc
+
+4> history
+
+
